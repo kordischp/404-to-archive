@@ -15,7 +15,7 @@
 
     function is404Page() {
 
-        // 1. Check HTTP Status Code using Performance API
+        // Check HTTP Status Code using Performance API
         const navEntries = window.performance.getEntriesByType('navigation');
         if (navEntries.length > 0 && navEntries[0].responseStatus === 404) {
             return true;
