@@ -10,7 +10,8 @@
 ## Installation  
 1. Install [Tampermonkey](https://www.tampermonkey.net/) (if you haven’t already).  
 2. Click [here](https://github.com/kordischp/404-to-archive/blob/main/404%20to%20Archive%20Redirecter-0.1.user.js) and then click Raw to install the script.  
-3. Enjoy!
+3. (alternatively) Install from [GreasyFork](https://greasyfork.org/en/scripts/532319-404-to-archive-redirecter)
+4. Enjoy!
 
 ## How It Works  
 - If a page is detected as a **404**, a popup will ask if you want to visit its archived version.  
