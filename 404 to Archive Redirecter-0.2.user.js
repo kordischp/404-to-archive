@@ -8,6 +8,7 @@
 // @run-at       document-end
 // @exclude      *://web.archive.org/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
