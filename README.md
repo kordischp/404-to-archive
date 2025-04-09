@@ -3,7 +3,7 @@
 **A Tampermonkey userscript that detects 404 (Not Found) pages and offers to redirect you to the archived version on Wayback Machine.**  
 
 ## Features  
-- Detects 404 pages based on page title and content.  
+- Detects 404 pages based on HTTP status code 
 - Asks for confirmation before redirecting. 
 
 ## Installation  
